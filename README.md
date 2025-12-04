@@ -1,16 +1,19 @@
-# Uncertainty in Vision-Language-Action Models for Robotics: A Tutorial Survey
+# Awesome Vision-Language-Models and Vision-Language-Action Models
 
-> This repository contains the list of representative VLA works in the survey “[*Uncertainty in Vision-Language-Action Models for Robotics: A Tutorial Survey*](link_placeholder)”, along with relevant reference materials.
+> An awesome &amp; curated list of research papers and corresponding resources in vision-language-models and vision-language-action models
 > 
 
 
 
 ## Taxonomy
 
-- [Vision-Language-Action Models](#vlas)
-- [Uncertainty Quantification](#uq)
+- [Vision Foundation Models](#vfm)
+- [Vision-Language-Models](#vlm)
+- [Vision-Language-Action Models](#vla)
+- 
 - 
 <!--
+- [Uncertainty Quantification](#uq)
 - [Active Learning](#al)
 - [Semi-Supervised Learning](#ssl)
 - [Open Set Recognition](#osr)
@@ -25,7 +28,18 @@
 -->
 
 ***
+## Vision Foundation Models
+#### 2025
+-
+#### 2024
 
+***
+## Vision-Language-Models
+#### 2025
+-
+#### 2024
+
+***
 ## Vision-Language-Action Models
 #### 2025
 - $\pi_{0.6}$: a VLA That Learns From Experience. [[paper]](https://www.pi.website/download/pistar06.pdf)
@@ -34,10 +48,6 @@
 - $\pi_0$: A Vision-Language-Action Flow Model for General Robot Control (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p010.pdf) [[project page]](https://www.physicalintelligence.company/blog/pi0)
 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p017.pdf)
 #### 2024
-
-***
-<a name="ue"></a>
-## Uncertainty Quantification
 
 <!--
 ******
