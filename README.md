@@ -32,7 +32,10 @@
 #### 2025
 -
 #### 2024
-
+- Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks (`CVPR 2024`). [[📄paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.pdf) [[🤗model](https://huggingface.co/collections/microsoft/florence)]
+#### 2021
+- Florence: A New Foundation Model for Computer Vision. [[paper]](https://arxiv.org/pdf/2111.11432)
+  
 ***
 ## Vision-Language-Models
 #### 2025
@@ -43,9 +46,9 @@
 ## Vision-Language-Action Models
 #### 2025
 - $\pi_{0.6}$: a VLA That Learns From Experience. [[paper]](https://www.pi.website/download/pistar06.pdf)
-- $\pi_{0.5}$: a Vision-Language-Action Model with Open-World Generalization (`CoRL 2025`). [[paper]](https://openreview.net/pdf?id=vlhoswksBO) [[project page]](https://www.pi.website/blog/pi05)
+- $\pi_{0.5}$: a Vision-Language-Action Model with Open-World Generalization (`CoRL 2025`). [[paper]](https://openreview.net/pdf?id=vlhoswksBO) [[🌍project page]](https://www.pi.website/blog/pi05)
 - FAST: Efficient Action Tokenization for Vision-Language-Action Models (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p012.pdf)
-- $\pi_0$: A Vision-Language-Action Flow Model for General Robot Control (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p010.pdf) [[project page]](https://www.physicalintelligence.company/blog/pi0)
+- $\pi_0$: A Vision-Language-Action Flow Model for General Robot Control (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p010.pdf) [[🌍project page]](https://www.physicalintelligence.company/blog/pi0)
 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p017.pdf)
 #### 2024
 
