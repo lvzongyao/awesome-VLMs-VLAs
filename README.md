@@ -28,6 +28,7 @@
 -->
 
 ***
+<a name="vfm"></a>
 ## Vision Foundation Models
 #### 2025
 -
@@ -37,12 +38,14 @@
 - Florence: A New Foundation Model for Computer Vision. [[paper]](https://arxiv.org/pdf/2111.11432)
   
 ***
+<a name="vlm"></a>
 ## Vision-Language-Models
 #### 2025
 -
 #### 2024
 
 ***
+<a name="vla"></a>
 ## Vision-Language-Action Models
 #### 2025
 - $\pi_{0.6}$: a VLA That Learns From Experience. [[paper]](https://www.pi.website/download/pistar06.pdf)
