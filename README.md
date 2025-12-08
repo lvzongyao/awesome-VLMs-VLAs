@@ -53,9 +53,12 @@
 - FAST: Efficient Action Tokenization for Vision-Language-Action Models (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p012.pdf)
 - $\pi_0$: A Vision-Language-Action Flow Model for General Robot Control (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p010.pdf) [[🌍project page]](https://www.physicalintelligence.company/blog/pi0)
 - Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p017.pdf)
+- RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation (`ICRA 2025`). [[paper]](https://arxiv.org/pdf/2411.02704) [[project page]](https://snasiriany.me/rt-affordance)
+    
 #### 2024
 - RT-H: Action Hierarchies Using Language (`RSS 2024`). [[paper]](https://www.roboticsproceedings.org/rss20/p049.pdf) [[project page]](https://rt-hierarchy.github.io)
 - 
+
 <!--
 ******
 <a name="al"></a>
