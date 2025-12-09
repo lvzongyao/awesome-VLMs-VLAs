@@ -10,7 +10,9 @@
 - [Vision Foundation Models](#vfm)
 - [Vision-Language-Models](#vlm)
 - [Vision-Language-Action Models](#vla)
-- 
+- [VLA + Reinforcement Learning](#vla_rl)
+- [VLA + World Model](#vla_wm)
+- [VLA for Autonomous Driving](#vla_ad)
 - 
 <!--
 - [Uncertainty Quantification](#uq)
@@ -59,6 +61,22 @@
 - RT-H: Action Hierarchies Using Language (`RSS 2024`). [[paper]](https://www.roboticsproceedings.org/rss20/p049.pdf) [[project page]](https://rt-hierarchy.github.io)
 - 
 
+***
+<a name="vla_rl"></a>
+## VLA + Reinforcement Learning
+#### 2025
+
+***
+<a name="vla_wm"></a>
+## VLA + World Model
+#### 2025
+- RynnVLA-002: A Unified Vision-Language-Action and World Model. [[paper]](https://arxiv.org/pdf/2511.17502) [[code]](https://github.com/alibaba-damo-academy/RynnVLA-002) [[🤗model]](https://huggingface.co/Alibaba-DAMO-Academy/WorldVLA)
+- WorldVLA: Towards Autoregressive Action World Model. [[paper]](https://arxiv.org/pdf/2506.21539) [[code]](https://github.com/alibaba-damo-academy/RynnVLA-002) [[🤗Model]](https://huggingface.co/Alibaba-DAMO-Academy/RynnVLA-002)
+
+***
+<a name="vla_ad"></a>
+## VLA for Autonomous Driving
+#### 2025
 <!--
 ******
 <a name="al"></a>
