@@ -50,7 +50,6 @@
 <a name="vla"></a>
 ## Vision-Language-Action Models
 #### 2025
-- $\pi_{0.6}$: a VLA That Learns From Experience. [[paper]](https://www.pi.website/download/pistar06.pdf)
 - $\pi_{0.5}$: a Vision-Language-Action Model with Open-World Generalization (`CoRL 2025`). [[paper]](https://openreview.net/pdf?id=vlhoswksBO) [[🌍project page]](https://www.pi.website/blog/pi05)
 - FAST: Efficient Action Tokenization for Vision-Language-Action Models (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p012.pdf)
 - $\pi_0$: A Vision-Language-Action Flow Model for General Robot Control (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p010.pdf) [[🌍project page]](https://www.physicalintelligence.company/blog/pi0)
@@ -65,13 +64,15 @@
 <a name="vla_rl"></a>
 ## VLA + Reinforcement Learning
 #### 2025
+- $\pi_{0.6}$: a VLA That Learns From Experience. [[paper]](https://www.pi.website/download/pistar06.pdf)
+- $\pi_{RL}$: Online RL Fine-tuning for Flow-based Vision-Language-Action Models. [[paper]](https://arxiv.org/pdf/2510.25889) [[💻code]](https://github.com/RLinf/RLinf) [[🤗model]](https://huggingface.co/RLinf)
 
 ***
 <a name="vla_wm"></a>
 ## VLA + World Model
 #### 2025
-- RynnVLA-002: A Unified Vision-Language-Action and World Model. [[paper]](https://arxiv.org/pdf/2511.17502) [[code]](https://github.com/alibaba-damo-academy/RynnVLA-002) [[🤗model]](https://huggingface.co/Alibaba-DAMO-Academy/WorldVLA)
-- WorldVLA: Towards Autoregressive Action World Model. [[paper]](https://arxiv.org/pdf/2506.21539) [[code]](https://github.com/alibaba-damo-academy/RynnVLA-002) [[🤗Model]](https://huggingface.co/Alibaba-DAMO-Academy/RynnVLA-002)
+- RynnVLA-002: A Unified Vision-Language-Action and World Model. [[paper]](https://arxiv.org/pdf/2511.17502) [[💻code]](https://github.com/alibaba-damo-academy/RynnVLA-002) [[🤗model]](https://huggingface.co/Alibaba-DAMO-Academy/WorldVLA)
+- WorldVLA: Towards Autoregressive Action World Model. [[paper]](https://arxiv.org/pdf/2506.21539) [[💻code]](https://github.com/alibaba-damo-academy/RynnVLA-002) [[🤗Model]](https://huggingface.co/Alibaba-DAMO-Academy/RynnVLA-002)
 
 ***
 <a name="vla_ad"></a>
