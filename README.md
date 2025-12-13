@@ -14,20 +14,6 @@
 - [VLA + World Model](#vla_wm)
 - [VLA for Autonomous Driving](#vla_ad)
 - 
-<!--
-- [Uncertainty Quantification](#uq)
-- [Active Learning](#al)
-- [Semi-Supervised Learning](#ssl)
-- [Open Set Recognition](#osr)
-- [Out-of-Distribution](#ood)
-- [Anomaly Detection](#ad)
-- [Open Set Domain Adaptation](#osda)
-- [Open World Recognition](#owr)
-- [Image Quality Assessment](#iqa)
-- [Active Vision](#av)
-- [Robot Perception](#rp)
-- [Field Robotics](#fr)
--->
 
 ***
 <a name="vfm"></a>
@@ -58,7 +44,12 @@
     
 #### 2024
 - RT-H: Action Hierarchies Using Language (`RSS 2024`). [[paper]](https://www.roboticsproceedings.org/rss20/p049.pdf) [[project page]](https://rt-hierarchy.github.io)
-- 
+
+#### 2023
+- PaLM-E: An embodied multimodal language model (`ICML 2023`). [[📄paper]](https://proceedings.mlr.press/v202/driess23a/driess23a.pdf) [[🌍project page]](https://palm-e.github.io/)
+
+#### 2022
+- Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (`CoRL 2022`). [[📄paper]](https://openreview.net/pdf?id=bdHkMjBJG_w) [[🌍project page]](https://say-can.github.io/)
 
 ***
 <a name="vla_rl"></a>
@@ -78,29 +69,4 @@
 <a name="vla_ad"></a>
 ## VLA for Autonomous Driving
 #### 2025
-<!--
-******
-<a name="al"></a>
-## Active Learning
-#### 2022
-- Mitigating shortage of labeled data using clustering-based active learning with diversity exploration (`ICML Workshop 2022`). [[paper]](https://arxiv.org/abs/2207.02964)
-- A clustering-based active learning method to query informative and representative samples (`Applied Intelligence 2022`). [[paper]](https://link.springer.com/article/10.1007/s10489-021-03139-y) [[code]](https://github.com/XuyangAbert/ALCS)
-#### 2021
-- Uncertainty and Utility Sampling with Pre-Clustering (`Workshop on Interactive Adaptive Learning 2021`). [[paper]](https://ceur-ws.org/Vol-3079/ial2021_paper2.pdf)
-#### 2020
-- Learning to Rank for Active Learning: A Listwise Approach (`ICPR 2020`). [[paper]](https://arxiv.org/abs/2008.00078v2)
-- Three-way active learning through clustering selection (`JMLC 2020`). [[paper]](https://link.springer.com/article/10.1007/s13042-020-01099-2) [[code]](https://github.com/FanSmale/TACS)
-#### 2018
-- Active Learning for Convolutional Neural Networks: A Core-Set Approach (`ICPR 2018`). [[paper]](https://arxiv.org/abs/1708.00489v4) [[code]](https://github.com/ozansener/active_learning_coreset)
-#### 2010
-- Active Learning by Querying Informative and Representative Examples (`NeurIPS 2010 + T-PAMI 2014`). [[NeurIPS paper]](https://proceedings.neurips.cc/paper/2010/hash/5487315b1286f907165907aa8fc96619-Abstract.html) [[T-PAMI paper]](https://ieeexplore.ieee.org/document/6747346)
-#### 2009
-- Semi-Supervised SVM Batch Mode Active Learning with Applications to Image Retrieval (`ACM Transactions on Information Systems 2009`). [[paper]](https://dl.acm.org/doi/abs/10.1145/1508850.1508854)
-#### 2008
-- Semi-Supervised SVM Batch Mode Active Learning for Image Retrieval (`CVPR 2008`). [[paper]](https://ieeexplore.ieee.org/document/4587350)
-- On multi-view active learning and the combination with semi-supervised learning (`ICML 2008`). [[paper]](https://dl.acm.org/doi/abs/10.1145/1390156.1390301)
-#### 2006
-- Active Learning with Multiple Views (`JAIR 2006`). [[paper]](https://www.jair.org/index.php/jair/article/view/10470)
-#### 2004
-- Active Learning Using Pre-clustering (`ICML 2004`). [[paper]](https://dl.acm.org/doi/abs/10.1145/1015330.1015349)
--->
+
