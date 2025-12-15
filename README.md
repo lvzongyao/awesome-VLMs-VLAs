@@ -4,12 +4,12 @@
 > 
 
 
-
 ## Taxonomy
 
 - [Vision Foundation Models](#vfm)
 - [Vision-Language-Models](#vlm)
 - [Vision-Language-Action Models](#vla)
+- [Failure Detection for VLAs](#fd_vla)
 - [VLA + Reinforcement Learning](#vla_rl)
 - [VLA + World Model](#vla_wm)
 - [VLA for Autonomous Driving](#vla_ad)
@@ -51,6 +51,12 @@
 #### 2022
 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (`CoRL 2022`). [[📄paper]](https://openreview.net/pdf?id=bdHkMjBJG_w) [[🌍project page]](https://say-can.github.io/)
 
+***
+<a name="fd_vla"></a>
+## Failure Detection for VLAs
+#### 2025
+- AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation (`ICLR 2025`). [[📄paper]](https://openreview.net/pdf?id=JVkdSi7Ekg) [[💻code]](https://github.com/NVlabs/AHA/tree/main) [[🌍project page]](https://aha-vlm.github.io/)
+  
 ***
 <a name="vla_rl"></a>
 ## VLA + Reinforcement Learning
