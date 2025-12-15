@@ -13,7 +13,6 @@
 - [VLA + Reinforcement Learning](#vla_rl)
 - [VLA + World Model](#vla_wm)
 - [VLA for Autonomous Driving](#vla_ad)
-- 
 
 ***
 <a name="vfm"></a>
@@ -43,6 +42,9 @@
 - RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation (`ICRA 2025`). [[paper]](https://arxiv.org/pdf/2411.02704) [[project page]](https://snasiriany.me/rt-affordance)
     
 #### 2024
+- Robotic Control via Embodied Chain-of-Thought Reasoning (`CoRL 2024`). [[📄paper]](https://openreview.net/pdf?id=S70MgnIA0v) [[💻code]](https://github.com/MichalZawalski/embodied-CoT) [[🌍project page]](https://embodied-cot.github.io) [[🤗model]](https://huggingface.co/Embodied-CoT)
+- OpenVLA: An Open-Source Vision-Language-Action Model (`CoRL 2024`). [[📄paper]](https://openreview.net/pdf?id=ZMnD6QZAE6) [[💻code]](https://github.com/openvla/openvla) [[🌍project page]](https://openvla.github.io) [[🤗model]](https://huggingface.co/openvla)
+- RoboPoint: A Vision-Language Model for Spatial Affordance Prediction in Robotics (`CoRL 2024`). [[📄paper]](https://openreview.net/pdf?id=GVX6jpZOhU) [[💻code]](https://github.com/wentaoyuan/RoboPoint) [[🌍project page]](https://robo-point.github.io/) [[🤗model]](https://huggingface.co/wentao-yuan/robopoint-v1-vicuna-v1.5-13b)
 - RT-H: Action Hierarchies Using Language (`RSS 2024`). [[paper]](https://www.roboticsproceedings.org/rss20/p049.pdf) [[project page]](https://rt-hierarchy.github.io)
 
 #### 2023
