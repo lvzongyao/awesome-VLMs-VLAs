@@ -50,7 +50,7 @@
 - PaLM-E: An embodied multimodal language model (`ICML 2023`). [[📄paper]](https://proceedings.mlr.press/v202/driess23a/driess23a.pdf) [[🌍project page]](https://palm-e.github.io/)
 
 #### 2022
-- Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (`CoRL 2022`). [[📄paper]](https://openreview.net/pdf?id=bdHkMjBJG_w) [[🌍project page]](https://say-can.github.io/)
+- Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (`CoRL 2022`). [[📄paper]](https://openreview.net/pdf?id=bdHkMjBJG_w) [[💻code]](https://github.com/google-research/google-research/tree/master/saycan) [[🌍project page]](https://say-can.github.io/)
 
 ***
 <a name="fd_vla"></a>
