@@ -34,10 +34,12 @@
 <a name="vla"></a>
 ## Vision-Language-Action Models
 #### 2025
+- $\pi^*_{0.6}$: a VLA That Learns From Experience. [[📄paper]](https://www.pi.website/download/pistar06.pdf)
 - $\pi_{0.5}$: a Vision-Language-Action Model with Open-World Generalization (`CoRL 2025`). [[paper]](https://openreview.net/pdf?id=vlhoswksBO) [[🌍project page]](https://www.pi.website/blog/pi05)
 - FAST: Efficient Action Tokenization for Vision-Language-Action Models (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p012.pdf)
 - $\pi_0$: A Vision-Language-Action Flow Model for General Robot Control (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p010.pdf) [[🌍project page]](https://www.physicalintelligence.company/blog/pi0)
-- Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success (`RSS 2025`). [[paper]](https://www.roboticsproceedings.org/rss21/p017.pdf)
+- *OpenVLA-OFT*, Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success (`RSS 2025`). [[📄paper]](https://www.roboticsproceedings.org/rss21/p017.pdf) [[💻code]](https://github.com/moojink/openvla-oft) [[🌍project page]](https://openvla-oft.github.io) [[🤗model]](https://huggingface.co/moojink?search_models=oft)
+- Improving Vision-Language-Action Model with Online Reinforcement Learning (`ICRA 2025`). [[📄paper]](https://arxiv.org/pdf/2501.16664)
 - RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation (`ICRA 2025`). [[paper]](https://arxiv.org/pdf/2411.02704) [[project page]](https://snasiriany.me/rt-affordance)
     
 #### 2024
